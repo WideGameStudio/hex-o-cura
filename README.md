@@ -1,1 +1,1 @@
-# hex-o-cura
+# wizards-legacy-web
